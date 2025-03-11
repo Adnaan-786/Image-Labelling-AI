@@ -46,14 +46,6 @@ python object_detection.py
 
 ⸻
 
-🖥 Demo
-
-Example Output:
-
-  
-
-⸻
-
 ⚡ Customization
 
 1️⃣ Use a Different YOLOv8 Model
@@ -129,7 +121,7 @@ Want to improve this project? Contributions are welcome!
 📬 Contact
 
 For any queries, reach out via:
-	•	📧 Email: your-email@example.com
+	•	📧 Email: adnaangouri58@gmail.com
 	•	💬 GitHub Issues: Open an issue
 
 ⸻
@@ -138,15 +130,3 @@ For any queries, reach out via:
 Happy Coding! 🎉
 
 ---
-
-## **🔹 What This README Includes:**
-✅ **Project Description** - Explains what the project does.  
-✅ **Features** - Highlights what the script can do.  
-✅ **Installation Steps** - Easy setup instructions.  
-✅ **Usage Guide** - How to run and customize the project.  
-✅ **Demo Screenshot** - A sample output image (replace with an actual image).  
-✅ **Common Issues & Fixes** - Helps users troubleshoot problems.  
-✅ **Contributing Guide** - Encourages community contributions.  
-✅ **License & Contact Info** - Legal and support details.  
-
-Let me know if you need any modifications! 🚀# Image-Labelling-AI
