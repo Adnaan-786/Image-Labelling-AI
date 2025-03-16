@@ -1,0 +1,14 @@
+{
+    "label_mappings": {
+        "car": "VEHICLE",
+        "truck": "VEHICLE"
+    },
+    "colors": {
+        "VEHICLE": [255, 0, 0],
+        "HUMAN": [0, 0, 255]
+    },
+    "validation_rules": {
+        "VEHICLE": "min_area=2500,min_confidence=0.6",
+        "HUMAN": "min_confidence=0.7"
+    }
+}
